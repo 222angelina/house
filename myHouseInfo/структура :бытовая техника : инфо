@@ -1,7 +1,0 @@
-type Appliance struct {
-	name       string
-	brand      string
-	powerUsage float64
-	price      float64
-	quantity   int
-}
