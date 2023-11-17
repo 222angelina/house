@@ -1,5 +1,0 @@
-type House struct {
-	furniture     []Furniture
-	appliances    []Appliance
-	familyMembers []FamilyMember
-}
