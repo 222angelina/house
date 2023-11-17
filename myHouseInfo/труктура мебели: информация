@@ -1,0 +1,7 @@
+type Furniture struct {
+	name     string
+	material string
+	color    string
+	price    float64
+	quantity int
+}
