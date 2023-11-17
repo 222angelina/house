@@ -4,3 +4,10 @@ type FamilyMember struct {
 	gender string
 	role   string
 }
+familyMembers: []FamilyMember{
+			FamilyMember{name: "Толя", age: 35, gender: "Male", role: "Father"},
+			FamilyMember{name: "Валя", age: 32, gender: "Female", role: "Mother"},
+			FamilyMember{name: "Ваня", age: 8, gender: "Male", role: "Son"},
+			FamilyMember{name: "Ира", age: 5, gender: "Female", role: "Daughter"},
+			FamilyMember{name: "Таня", age: 65, gender: "Female", role: "Grandmother"},
+		}
