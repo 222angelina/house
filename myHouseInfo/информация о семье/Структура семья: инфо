@@ -1,1 +1,6 @@
-
+type FamilyMember struct {
+	name   string
+	age    int
+	gender string
+	role   string
+}
